@@ -11,7 +11,6 @@ You can watch the full project demo and presentation by clicking the links below
 PowerPoint Slide Show - [Final project.pptx] 2025-05-13 11-43-31.mp4
 
 ▶️ Power BI Dashboard Demo:
-
 price-comparison-of-supermarkets-final-copy-power-bi-google-chrome-2025-05-1_4EcMughT.mp4
 
 
